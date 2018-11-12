@@ -15,6 +15,7 @@
 		DED899A71D36E6AE00E67C2B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DED899A51D36E6AE00E67C2B /* LaunchScreen.storyboard */; };
 		DED899B21D36E6AE00E67C2B /* PokemonHandlerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DED899B11D36E6AE00E67C2B /* PokemonHandlerTests.m */; };
 		DED899BD1D36E6AE00E67C2B /* PokemonHandlerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = DED899BC1D36E6AE00E67C2B /* PokemonHandlerUITests.m */; };
+		DEF008BC1D55583C000BB3B6 /* pokemonLocation.gpx in Resources */ = {isa = PBXBuildFile; fileRef = DEF008BB1D55583C000BB3B6 /* pokemonLocation.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		DED899B81D36E6AE00E67C2B /* PokemonHandlerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PokemonHandlerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DED899BC1D36E6AE00E67C2B /* PokemonHandlerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PokemonHandlerUITests.m; sourceTree = "<group>"; };
 		DED899BE1D36E6AE00E67C2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DEF008BB1D55583C000BB3B6 /* pokemonLocation.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemonLocation.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		DED899961D36E6AE00E67C2B /* PokemonHandler */ = {
 			isa = PBXGroup;
 			children = (
+				DEF008BB1D55583C000BB3B6 /* pokemonLocation.gpx */,
 				DED8999A1D36E6AE00E67C2B /* AppDelegate.h */,
 				DED8999B1D36E6AE00E67C2B /* AppDelegate.m */,
 				DED8999D1D36E6AE00E67C2B /* ViewController.h */,
@@ -207,6 +210,7 @@
 				TargetAttributes = {
 					DED899931D36E6AE00E67C2B = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = T5QR2D526D;
 					};
 					DED899AC1D36E6AE00E67C2B = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -243,6 +247,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DEF008BC1D55583C000BB3B6 /* pokemonLocation.gpx in Resources */,
 				DED899A71D36E6AE00E67C2B /* LaunchScreen.storyboard in Resources */,
 				DED899A41D36E6AE00E67C2B /* Assets.xcassets in Resources */,
 				DED899A21D36E6AE00E67C2B /* Main.storyboard in Resources */,
@@ -364,7 +369,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -402,7 +407,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -413,6 +418,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = T5QR2D526D;
 				INFOPLIST_FILE = PokemonHandler/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = io.kam.PokemonHandler;
@@ -424,6 +430,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = T5QR2D526D;
 				INFOPLIST_FILE = PokemonHandler/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = io.kam.PokemonHandler;
@@ -496,6 +503,7 @@
 				DED899C31D36E6AE00E67C2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DED899C41D36E6AE00E67C2B /* Build configuration list for PBXNativeTarget "PokemonHandlerTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +512,7 @@
 				DED899C61D36E6AE00E67C2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DED899C71D36E6AE00E67C2B /* Build configuration list for PBXNativeTarget "PokemonHandlerUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +521,7 @@
 				DED899C91D36E6AE00E67C2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

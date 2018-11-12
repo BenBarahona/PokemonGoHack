@@ -1,0 +1,161 @@
+
+<gpx creator="Xcode" version="1.1"><wpt lat="14.083490" lon="-87.161546"><name>PokemonLocation</name></wpt></gpx>
+<!--
+
+ Belem:
+ -1.452893, -48.503579
+ Lanches: -1.463572, -48.495602
+ Patio Belem:-1.456864, -48.495703
+ Pineco: -1.447573, -48.454843
+ Casita: -1.462283, -48.492589
+ UFPA: -1.474232, -48.450608
+ 
+ Ruta Docas:
+ -1.450198, -48.501811
+ -1.449870, -48.501314 <- Gym : Anfiteatro Da Estação
+ -1.449698, -48.501134 <- Gym: Exposiçã Navagação
+ -1.449528, -48.500972
+ -1.449275, -48.500762
+ -1.448861, -48.500377
+ -1.448555, -48.500054 <- Gym: Vagão Das Docas
+ -1.448312, -48.499863 <- Gym: Estação das Docas
+ -1.448002, -48.499779
+ -1.447610, -48.499511
+ -1.447268, -48.499228
+ -1.447409, -48.498929
+ -1.447656, -48.498699 <- Gym: Monumento A Pedro Texeira
+ -1.447839, -48.498724
+ 
+ 
+ Ruta Kenya
+ 14.075887, -87.183832
+ 14.075389, -87.184469
+ 14.074662, -87.184413
+ 14.074808, -87.185232
+ 14.074255, -87.184972
+ 14.073440, -87.184588
+ 14.073247, -87.183619
+ 14.070927, -87.184000
+ 14.070220, -87.183708
+ 
+ Ruta UNAH:
+ 14.083490, -87.161546
+ 14.083694, -87.162133
+ 14.083934, -87.162795
+ 14.084162, -87.163370
+ 14.084390, -87.163895
+ 14.084648, -87.164464
+ 14.084936, -87.164903
+ 14.085158, -87.165379
+ 14.085410, -87.166171
+ 14.085560, -87.166814
+ 14.085667, -87.167377
+ 14.085853, -87.168261
+ 14.086057, -87.169114
+ 14.086101, -87.169772
+ 14.085272, -87.170493
+ 14.084141, -87.170221
+
+ PTS OF INTEREST:
+ Medalla Milagrosa (Tripleja Pokestop): 14.101233, -87.184644
+ Plaza Miraflores: 14.076878, -87.186154
+ Abajo de la casa: 14.085589, -87.190459
+ 
+ *** GYM COORDS TEGUS: ***
+ 
+ * PASE EX *
+ 
+ Dinosario 14.097799,-87.16345200000001
+ Parque Espanha 14.094517,-87.18338
+ CAstillo 14.065987,-87.175674
+ Chiminike  14.071662,-87.203193
+ Cancha Tennis 14.089408, -87.16339
+ La Leona  14.108461,-87.20298699999999
+ Grafitti Codehpah 14.089613,-87.163538
+ 
+ * BLVD MORAZAN *
+ Pintura Il Padrino: 14.099788, -87.178205
+ Busto Procer (Dispensa): 14.102957, -87.178573
+ Mural Politicos El Patio: 14.100748, -87.179641
+ Bolivar Los Proceres (Diunsa): 14.102811, -87.185915
+ Novacentro: 14.101193, -87.186425
+ Mural Bac: 14.100275, -87.186347
+ Fountain: 14.099816, -87.188830
+ Fuente Blvd Morazan (Plaza Criolla): 14.100058, -87.193236
+ Iglesia La Guadalupe: 14.099408, -87.196568
+ Graffiti Naranja y Corazon (Puentes): 14.099577, -87.197642
+ Iglesia Jesucristo Es El Camino: 14.099130, -87.199416
+ Procer: 14.102992, -87.187455
+ 
+ * MIRAFLORES / KENNEDY *
+ Placa San Angel: 14.072351, -87.180746
+ Estatua Policia de Transito: 14.074696, -87.183357
+ La Guara (Plaza): 14.075720, -87.184744
+ Pintura Cafe Del Mundo (Plaza): 14.077825, -87.185870
+ Banco de Occidente: 14.079490, -87.185741
+ Placa Pasaje Castillo: 14.066246, -87.17562
+ Busto Jose Trinidad Reyes (Kennedy): 14.064287, -87.180150
+ Mural Infantil: 14.070005, -87.179288
+ Estatua Redondel Kennedy: 14.068058, -87.184145
+ 
+ * BLVD FFAA *
+ Mural Merece lo que Suenas (Villas del Sol): 14.067690, -87.173958
+ Chiminike: 14.07187, -87.20327
+ Graffiti Teleton: 14.075483, -87.192569
+ Vida Abundante: 14.077731, -87.193121
+ Mural Universidad Pedagogica:
+ 
+ * BLVD JUAN PABLO II *
+ Busto Gordito (BK): 14.090315, -87.193030
+ Iglesia Adventista Tepeyac: 14.090220, -87.191933
+ Fuente Tacontento: 14.089483, -87.191006
+ Graffiti Zopilote ENEE: 14.089477, -87.194405
+ 
+ * VILLA OLIMPICA / UNAH *
+ Placa Cancha Tennis: 14.089408, -87.16339
+ Graffiti Condepah
+ Plaza De Banderas: 14.090757, -87.162845
+ Facultad de Ingenieria UNAH: 14.086926, -87.16192
+ Fuente Villa O 6: 14.089184, -87.164057
+ Mural Generaciones Villa Olimpica: 14.090783, -87.160808
+ Puentes Villa Olimpica: 14.090648, -87.157601
+ Edificio Ciencias de la Salud: 14.084403, -87.166789
+ 
+ * BLVD SUYAPA *
+ Graffiti Puño Firme Pinocho (Estadio): 14.096779, -87.204298
+ Mural Manos Unidas (Estadio): 14.097768, -87.202416
+ Iglesia San Martin de Porres (Estadio): 14.097768, -87.202416
+ Monumento a la Paz (Juana Lainez): 14.093991, -87.201516
+ Fuente Parque Mario Mendoza (Morgue): 14.088047, -87.198253
+ Eye Graffiti (Hospital Escuela): 14.089944, -87.197021
+ Francisco Morazan BCIE: 14.086766, -87.194345
+ Estatua Bomberos: 14.083436,-87.16811300000001
+ Mural EU (Emisoras Unidas): 14.084749, -87.186937
+ Placa Curacao (BAC): 14.085794, -87.187259
+ Cebollines: 14.087007, -87.183928
+ Rotonda La Florencia: 14.085162, -87.181584
+ Fountain Blvd Suyapa: 14.084400, -87.179903
+ Happy Face Preschool (Tres Caminos): 14.083016, -87.177291
+ Centro Cultural: 14.083003, -87.175885
+ Estadio De Atletismo (UNAH): 14.084483, -87.170122
+ Grafiti Infra (Por la UNAH): 14.083715, -87.170808
+ Iglesia Virgen de Suyapa: 14.080442, -87.157901
+ Portal de La Virgen (Atras de Suyapa): 14.080112, -87.155524
+ Estatua Sin Brazos: 14.082534, -87.164226
+ Mural Suyapa: 14.082760, -87.159252
+ Nacional Ingenieros Coliseum: 14.083868, -87.157845
+ 
+ * MAYA / CENTRO *
+ Graffiti Maya Two: 14.101912, -87.196531
+ Redondel De Los Artesanos: 14.103813, -87.194893
+ Mural Calavera: 14.101556, -87.201926
+ 
+ * COMAYAGUELA *
+ Bienvenidos Al Centro Historico Del DC: 14.091879, -87.207038
+ Centro Cristiano De Rehabilitacion: 14.09542,-87.20706
+ Busto Doctor Salvador Paredes: 14.097982, -87.207405
+ Iglesia El Calvario: 14.090445, -87.211343
+ Iglesia Tabernaculo Evangelico: 14.091285, -87.210519
+ Mural Gasolinera Uno: 14.088020, -87.200967
+ Mural Asociacion Cristiana De Jovenes: 14.088466, -87.202443
+ -->
