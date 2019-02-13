@@ -40,6 +40,7 @@
 /* Begin PBXFileReference section */
 		DE087857220E0BC800385044 /* MiguelsFirstTrack.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MiguelsFirstTrack.gpx; sourceTree = "<group>"; };
 		DE08785D2211065B00385044 /* VillaOlimpica.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = VillaOlimpica.gpx; sourceTree = "<group>"; };
+		DE08786122115E7000385044 /* Unah Walk 1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Unah Walk 1.gpx"; sourceTree = "<group>"; };
 		DED899941D36E6AE00E67C2B /* PokemonHandler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PokemonHandler.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DED899981D36E6AE00E67C2B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		DED8999A1D36E6AE00E67C2B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -119,6 +120,7 @@
 				DED899A51D36E6AE00E67C2B /* LaunchScreen.storyboard */,
 				DED899A81D36E6AE00E67C2B /* Info.plist */,
 				DED899971D36E6AE00E67C2B /* Supporting Files */,
+				DE08786122115E7000385044 /* Unah Walk 1.gpx */,
 			);
 			path = PokemonHandler;
 			sourceTree = "<group>";
