@@ -1,5 +1,12 @@
 
-<gpx creator="Xcode" version="1.1"><wpt lat="14.100676" lon="-87.180729"><name>PokemonLocation</name></wpt></gpx>
+<gpx creator="Xcode" version="1.1"><wpt lat="14.100058" lon="-87.193236"><name>PokemonLocation</name></wpt></gpx>
+
+<!-- Utiles
+ Medalla Milagrosa (Tripleja Pokestop): 14.101233, -87.184644
+ Bolivar Los Proceres (Diunsa): 14.102811, -87.185915
+ Novacentro: 14.101193, -87.186425
+ Mural Bac: 14.100275, -87.186347
+ -->
 <!--
  
  Ruta Kenya
@@ -61,6 +68,11 @@
  Graffiti Naranja y Corazon (Puentes): 14.099577, -87.197642
  Iglesia Jesucristo Es El Camino: 14.099130, -87.199416
  Procer: 14.102992, -87.187455
+ Arte Maya: 14.0974392, -87.1865545
+ Oficina: 14.1002878, -87.1814597
+ El Dorado: 14.1000133, -87.18255
+ Tigo: 14.1001431, -87.1743384
+ 
  
  * MIRAFLORES / KENNEDY *
  Placa San Angel: 14.072351, -87.180746
@@ -95,6 +107,10 @@
  Mural Generaciones Villa Olimpica: 14.090783, -87.160808
  Puentes Villa Olimpica: 14.090648, -87.157601
  Edificio Ciencias de la Salud: 14.084403, -87.166789
+ Dinosario 14.097799,-87.16345200000001
+ Iglesia con alabanza Salmos 100 14.0941333, -87.1550743
+ Iglesia Uncion Celestial 14.1001333, -87.1580743
+
  
  * BLVD SUYAPA *
  Graffiti Puño Firme Pinocho (Estadio): 14.096779, -87.204298
