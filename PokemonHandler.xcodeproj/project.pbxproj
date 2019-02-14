@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5D0B7F0C21D29378000B1ECD /* MiguelsFirstTrack.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 5D0B7F0B21D29378000B1ECD /* MiguelsFirstTrack.gpx */; };
 		DED899991D36E6AE00E67C2B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DED899981D36E6AE00E67C2B /* main.m */; };
 		DED8999C1D36E6AE00E67C2B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DED8999B1D36E6AE00E67C2B /* AppDelegate.m */; };
 		DED8999F1D36E6AE00E67C2B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DED8999E1D36E6AE00E67C2B /* ViewController.m */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5D0B7F0B21D29378000B1ECD /* MiguelsFirstTrack.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MiguelsFirstTrack.gpx; sourceTree = "<group>"; };
 		DED899941D36E6AE00E67C2B /* PokemonHandler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PokemonHandler.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DED899981D36E6AE00E67C2B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		DED8999A1D36E6AE00E67C2B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 			isa = PBXGroup;
 			children = (
 				DEF008BB1D55583C000BB3B6 /* pokemonLocation.gpx */,
+				5D0B7F0B21D29378000B1ECD /* MiguelsFirstTrack.gpx */,
 				DED8999A1D36E6AE00E67C2B /* AppDelegate.h */,
 				DED8999B1D36E6AE00E67C2B /* AppDelegate.m */,
 				DED8999D1D36E6AE00E67C2B /* ViewController.h */,
@@ -210,7 +213,13 @@
 				TargetAttributes = {
 					DED899931D36E6AE00E67C2B = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = T5QR2D526D;
+						DevelopmentTeam = YD5FNB475F;
+						ProvisioningStyle = Manual;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 					DED899AC1D36E6AE00E67C2B = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -248,6 +257,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DEF008BC1D55583C000BB3B6 /* pokemonLocation.gpx in Resources */,
+				5D0B7F0C21D29378000B1ECD /* MiguelsFirstTrack.gpx in Resources */,
 				DED899A71D36E6AE00E67C2B /* LaunchScreen.storyboard in Resources */,
 				DED899A41D36E6AE00E67C2B /* Assets.xcassets in Resources */,
 				DED899A21D36E6AE00E67C2B /* Main.storyboard in Resources */,
@@ -418,11 +428,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = T5QR2D526D;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = YD5FNB475F;
 				INFOPLIST_FILE = PokemonHandler/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = io.kam.PokemonHandler;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iconic.test.pokemongo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "Iconic Test Apps Dev Provisioning Profile";
 			};
 			name = Debug;
 		};
@@ -430,11 +442,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = T5QR2D526D;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = PokemonHandler/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = io.kam.PokemonHandler;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iconic.test.pokemongo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Release;
 		};
