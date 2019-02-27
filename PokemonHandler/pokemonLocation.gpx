@@ -1,11 +1,15 @@
 
-<gpx creator="Xcode" version="1.1"><wpt lat="14.100058" lon="-87.193236"><name>PokemonLocation</name></wpt></gpx>
+<gpx creator="Xcode" version="1.1"><wpt lat="14.0979" lon="-87.1632"><name>PokemonLocation</name></wpt></gpx>
 
 <!-- Utiles
  Medalla Milagrosa (Tripleja Pokestop): 14.101233, -87.184644
  Bolivar Los Proceres (Diunsa): 14.102811, -87.185915
  Novacentro: 14.101193, -87.186425
  Mural Bac: 14.100275, -87.186347
+ 
+ PARA HACER RUTAS:
+ https://www.gpxgenerator.com/
+ 
  -->
 <!--
  
@@ -16,9 +20,9 @@
  14.074808, -87.185232
  14.074255, -87.184972
  14.073440, -87.184588
- 14.073247, -87.183619
+ 14.073247, -87.183619]
  14.070927, -87.184000
- 14.070220, -87.183708
+ 14.070220, -87.183708\
  
  Ruta UNAH:
  14.083490, -87.161546

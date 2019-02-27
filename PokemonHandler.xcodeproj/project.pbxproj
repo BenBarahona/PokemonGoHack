@@ -235,6 +235,7 @@
 					};
 					DED899B71D36E6AE00E67C2B = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = T5QR2D526D;
 						TestTargetID = DED899931D36E6AE00E67C2B;
 					};
 				};
@@ -438,6 +439,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = YD5FNB475F;
 				INFOPLIST_FILE = PokemonHandler/Info.plist;
@@ -452,13 +454,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = YD5FNB475F;
 				INFOPLIST_FILE = PokemonHandler/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.iconic.test.pokemongo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE_SPECIFIER = "Iconic Test Apps Dev Provisioning Profile";
 			};
 			name = Release;
 		};
@@ -489,6 +492,7 @@
 		DED899C81D36E6AE00E67C2B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = T5QR2D526D;
 				INFOPLIST_FILE = PokemonHandlerUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = io.kam.PokemonHandlerUITests;
@@ -500,6 +504,7 @@
 		DED899C91D36E6AE00E67C2B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = T5QR2D526D;
 				INFOPLIST_FILE = PokemonHandlerUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = io.kam.PokemonHandlerUITests;
