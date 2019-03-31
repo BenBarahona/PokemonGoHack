@@ -19,6 +19,7 @@
 		DED899B21D36E6AE00E67C2B /* PokemonHandlerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DED899B11D36E6AE00E67C2B /* PokemonHandlerTests.m */; };
 		DED899BD1D36E6AE00E67C2B /* PokemonHandlerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = DED899BC1D36E6AE00E67C2B /* PokemonHandlerUITests.m */; };
 		DEF008BC1D55583C000BB3B6 /* pokemonLocation.gpx in Resources */ = {isa = PBXBuildFile; fileRef = DEF008BB1D55583C000BB3B6 /* pokemonLocation.gpx */; };
+		DEF34DF32250494500F0EFC8 /* MiniEstadio.gpx in Resources */ = {isa = PBXBuildFile; fileRef = DEF34DF22250494500F0EFC8 /* MiniEstadio.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		DED899BC1D36E6AE00E67C2B /* PokemonHandlerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PokemonHandlerUITests.m; sourceTree = "<group>"; };
 		DED899BE1D36E6AE00E67C2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DEF008BB1D55583C000BB3B6 /* pokemonLocation.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemonLocation.gpx; sourceTree = "<group>"; };
+		DEF34DF22250494500F0EFC8 /* MiniEstadio.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = MiniEstadio.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 		DED899961D36E6AE00E67C2B /* PokemonHandler */ = {
 			isa = PBXGroup;
 			children = (
+				DEF34DF22250494500F0EFC8 /* MiniEstadio.gpx */,
 				5DDF7F8A221627EB003C9305 /* UnahsUltimateTrack.gpx */,
 				DEF008BB1D55583C000BB3B6 /* pokemonLocation.gpx */,
 				DE087857220E0BC800385044 /* MiguelsFirstTrack.gpx */,
@@ -245,6 +248,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -267,6 +271,7 @@
 			files = (
 				DEF008BC1D55583C000BB3B6 /* pokemonLocation.gpx in Resources */,
 				DE087858220E0BC800385044 /* MiguelsFirstTrack.gpx in Resources */,
+				DEF34DF32250494500F0EFC8 /* MiniEstadio.gpx in Resources */,
 				5DDF7F8B221627EB003C9305 /* UnahsUltimateTrack.gpx in Resources */,
 				DED899A71D36E6AE00E67C2B /* LaunchScreen.storyboard in Resources */,
 				DED899A41D36E6AE00E67C2B /* Assets.xcassets in Resources */,
