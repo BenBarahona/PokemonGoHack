@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx>
-  <trk>
       <wpt lat="14.09903510" lon="-87.1995860">
         <time>2010-01-01T00:00:00Z</time>
       </wpt>
@@ -73,6 +72,5 @@
       <wpt lat="14.09895190" lon="-87.1995538">
         <time>2010-01-01T00:05:47Z</time>
       </wpt>
-  </trk>
 </gpx>
 
