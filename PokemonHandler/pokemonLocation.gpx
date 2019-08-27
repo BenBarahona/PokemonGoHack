@@ -1,5 +1,5 @@
 
-<gpx creator="Xcode" version="1.1"><wpt lat="14.097850" lon="-87.201916"> <name>PokemonLocation</name></wpt></gpx>
+<gpx creator="Xcode" version="1.1"><wpt lat="14.089408" lon="-87.16339"> <name>PokemonLocation</name></wpt></gpx>
 
 <!-- Utilesr
  Medalla Milagrosa (Tripleja Pokestop): 14.101233, -87.184644
@@ -9,6 +9,9 @@
  
  PARA HACER RUTAS:
  https://www.gpxgenerator.com/
+ Link para info de como editar rutas:
+ https://medium.com/@augusteo/how-to-simulate-gps-movement-in-ios-cca61907df2c
+ 
  
  -->
 <!--
