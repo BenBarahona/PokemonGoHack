@@ -44,6 +44,8 @@
 		DE087857220E0BC800385044 /* MiguelsFirstTrack.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MiguelsFirstTrack.gpx; sourceTree = "<group>"; };
 		DE08785D2211065B00385044 /* VillaOlimpica.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = VillaOlimpica.gpx; sourceTree = "<group>"; };
 		DE08786122115E7000385044 /* Unah Walk 1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Unah Walk 1.gpx"; sourceTree = "<group>"; };
+		DE3FB322299C9B5800E99346 /* DailyIncense.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = DailyIncense.gpx; sourceTree = "<group>"; };
+		DE81BA7129A9C5AD00B247AD /* Egg Hatch.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Egg Hatch.gpx"; sourceTree = "<group>"; };
 		DED899941D36E6AE00E67C2B /* PokemonHandler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PokemonHandler.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DED899981D36E6AE00E67C2B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		DED8999A1D36E6AE00E67C2B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -127,6 +129,8 @@
 				DED899A81D36E6AE00E67C2B /* Info.plist */,
 				DED899971D36E6AE00E67C2B /* Supporting Files */,
 				DE08786122115E7000385044 /* Unah Walk 1.gpx */,
+				DE3FB322299C9B5800E99346 /* DailyIncense.gpx */,
+				DE81BA7129A9C5AD00B247AD /* Egg Hatch.gpx */,
 			);
 			path = PokemonHandler;
 			sourceTree = "<group>";
@@ -225,7 +229,7 @@
 					DED899931D36E6AE00E67C2B = {
 						CreatedOnToolsVersion = 7.3.1;
 						DevelopmentTeam = YD5FNB475F;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
@@ -444,14 +448,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = YD5FNB475F;
 				INFOPLIST_FILE = PokemonHandler/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.iconic.test.pokemongo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "Iconic Test Apps Dev Provisioning Profile";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
 		};
@@ -459,14 +465,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = YD5FNB475F;
 				INFOPLIST_FILE = PokemonHandler/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.iconic.test.pokemongo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "Iconic Test Apps Dev Provisioning Profile";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Release;
 		};

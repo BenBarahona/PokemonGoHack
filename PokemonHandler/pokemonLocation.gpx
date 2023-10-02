@@ -1,18 +1,18 @@
+<gpx creator="Xcode" version="1.1"><wpt lat="14.097875" lon="-87.207511"> <name>PokemonLocation</name></wpt></gpx>
 
-<gpx creator="Xcode" version="1.1"><wpt lat="14.097850" lon="-87.201916"> <name>PokemonLocation</name></wpt></gpx>
-
-<!-- Utilesr
+<!-- Utiles
+ Lily Gym: 14.0571477, -87.1853271
  Medalla Milagrosa (Tripleja Pokestop): 14.101233, -87.184644
- Bolivar Los Pr oceres (Diunsa): 14.102811, -87.185915
+ Bolivar Los Proceres (Diunsa): 14.102811, -87.185915
  Novacentro: 14.101193, -87.186425
  Mural Bac: 14.100275, -87.186347
  
- PARA HACER RUTAS:
- https://www.gpxgenerator.com/
+ PARA HACER RUTAS:=
+ https://www.gpsies.com/
  
  -->
 <!--
- 
+ https://www.google.com/maps/place/14%C2%B003'25.2%22N+87%C2%B011'07.3%22W/@14.057003,-87.1875601,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d14.057003!4d-87.1853714?hl=en
  Ruta Kenya
  14.075887, -87.183832
  14.075389, -87.184469
@@ -20,9 +20,9 @@
  14.074808, -87.185232
  14.074255, -87.184972
  14.073440, -87.184588
- 14.073247, -87.183619]
+ 14.073247, -87.183619
  14.070927, -87.184000
- 14.070220, -87.183708\
+ 14.070220, -87.183708
  
  Ruta UNAH:
  14.083490, -87.161546
@@ -41,6 +41,10 @@
  14.086101, -87.169772
  14.085272, -87.170493
  14.084141, -87.170221
+
+ **********    HOTSPOTS NICARAGUA  ***********
+ 12.161534,-86.274530
+ 12.156206,-86.272330
 
  PTS OF INTEREST:
  Medalla Milagrosa (Tripleja Pokestop): 14.101233, -87.184644
@@ -61,6 +65,7 @@
  
  * BLVD MORAZAN *
  Pintura Il Padrino: 14.099788, -87.178205
+ Mural Del Cafetalero: 14.102804, -87.176754
  Busto Procer (Dispensa): 14.102957, -87.178573
  Mural Politicos El Patio: 14.100748, -87.179641
  Bolivar Los Proceres (Diunsa): 14.102811, -87.185915
@@ -75,7 +80,7 @@
  Arte Maya: 14.0974392, -87.1865545
  Oficina: 14.1002878, -87.1814597
  El Dorado: 14.1000133, -87.18255
- Tigo: 14.1001431, -87.1743384
+ Tigo: 14.100428, -87.174005
  
  
  * MIRAFLORES / KENNEDY *
@@ -88,33 +93,50 @@
  Busto Jose Trinidad Reyes (Kennedy): 14.064287, -87.180150
  Mural Infantil: 14.070005, -87.179288
  Estatua Redondel Kennedy: 14.068058, -87.184145
+ Mural Artistico Los Niños: 14.0571477, -87.1853271
+ Mural Bay Side: 14.053736, -87.180518
  
  * BLVD FFAA *
+ Iglesia Perpetuo: 14.080628, -87.190760
  Mural Merece lo que Suenas (Villas del Sol): 14.067690, -87.173958
  Chiminike: 14.07187, -87.20327
  Graffiti Teleton: 14.075483, -87.192569
  Vida Abundante: 14.077731, -87.193121
  Mural Universidad Pedagogica:
+
+ Iglesia Renovados: 14.101228, -87.240768
+
+ *COL CENTROAMERICA *
+ Iglesia Evangelica Buen Pastor: 14.090421, -87.236149
  
  * BLVD JUAN PABLO II *
  Busto Gordito (BK): 14.090315, -87.193030
  Iglesia Adventista Tepeyac: 14.090220, -87.191933
  Fuente Tacontento: 14.089483, -87.191006
+ Estatua del Angel: 14.088616, -87.190562
  Graffiti Zopilote ENEE: 14.089477, -87.194405
  
  * VILLA OLIMPICA / UNAH *
  Placa Cancha Tennis: 14.089408, -87.16339
  Graffiti Condepah
  Plaza De Banderas: 14.090757, -87.162845
- Facultad de Ingenieria UNAH: 14.086926, -87.16192
- Fuente Villa O 6: 14.089184, -87.164057
+ Mural Raquet Ball: 14.089663, -87.162774
+ Fuente Facultad de Ingenieria UNAH: 14.086926, -87.16192
  Mural Generaciones Villa Olimpica: 14.090783, -87.160808
  Puentes Villa Olimpica: 14.090648, -87.157601
+ Fuente Villa O 6: 14.089184, -87.164057
  Edificio Ciencias de la Salud: 14.084403, -87.166789
  Dinosario 14.097799,-87.16345200000001
  Iglesia con alabanza Salmos 100 14.0941333, -87.1550743
  Iglesia Uncion Celestial 14.1001333, -87.1580743
+ Torre de Agua: 14.094546,-87.171612
 
+ * BLVD KUWAIT *
+ Fuente Interna (Mall Cascadas): 14.076068, -87.201802
+ Mural Las Cascadas: 14.077127, -87.202575
+ Mural Villa: 14.079841, -87.202115
+ Mural Jose Cecilio del Valle: 14.081593, -87.200774
+ Mural Ardilla: 14.082655, -87.200625
  
  * BLVD SUYAPA *
  Graffiti Puño Firme Pinocho (Estadio): 14.096779, -87.204298
@@ -123,6 +145,7 @@
  Monumento a la Paz (Juana Lainez): 14.093991, -87.201516
  Fuente Parque Mario Mendoza (Morgue): 14.088047, -87.198253
  Eye Graffiti (Hospital Escuela): 14.089944, -87.197021
+    14.089836" lon="-87.196953
  Francisco Morazan BCIE: 14.086766, -87.194345
  Estatua Bomberos: 14.083436,-87.16811300000001
  Mural EU (Emisoras Unidas): 14.084749, -87.186937
