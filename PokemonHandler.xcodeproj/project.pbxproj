@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5D0CC25822E25CFC00730C9D /* Sdcc.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 5D0CC25722E25CFC00730C9D /* Sdcc.gpx */; };
 		5DB977DC2310B9D400A34E30 /* San_Francisco_Pier_39_Pokego__GPX_Route.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 5DB977DB2310B9D400A34E30 /* San_Francisco_Pier_39_Pokego__GPX_Route.gpx */; };
 		5DDF7F8B221627EB003C9305 /* UnahsUltimateTrack.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 5DDF7F8A221627EB003C9305 /* UnahsUltimateTrack.gpx */; };
 		DE087858220E0BC800385044 /* MiguelsFirstTrack.gpx in Resources */ = {isa = PBXBuildFile; fileRef = DE087857220E0BC800385044 /* MiguelsFirstTrack.gpx */; };
 		DE08785E2211065B00385044 /* VillaOlimpica.gpx in Resources */ = {isa = PBXBuildFile; fileRef = DE08785D2211065B00385044 /* VillaOlimpica.gpx */; };
+		DE2260DB2ACB8F4F0070665C /* Route_PaseoPorLaVilla.gpx in Resources */ = {isa = PBXBuildFile; fileRef = DE2260DA2ACB8F4F0070665C /* Route_PaseoPorLaVilla.gpx */; };
 		DED899991D36E6AE00E67C2B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DED899981D36E6AE00E67C2B /* main.m */; };
 		DED8999C1D36E6AE00E67C2B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DED8999B1D36E6AE00E67C2B /* AppDelegate.m */; };
 		DED8999F1D36E6AE00E67C2B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DED8999E1D36E6AE00E67C2B /* ViewController.m */; };
@@ -42,12 +42,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5D0CC25722E25CFC00730C9D /* Sdcc.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Sdcc.gpx; sourceTree = "<group>"; };
 		5DB977DB2310B9D400A34E30 /* San_Francisco_Pier_39_Pokego__GPX_Route.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = San_Francisco_Pier_39_Pokego__GPX_Route.gpx; sourceTree = "<group>"; };
 		5DDF7F8A221627EB003C9305 /* UnahsUltimateTrack.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = UnahsUltimateTrack.gpx; sourceTree = "<group>"; };
 		DE087857220E0BC800385044 /* MiguelsFirstTrack.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MiguelsFirstTrack.gpx; sourceTree = "<group>"; };
 		DE08785D2211065B00385044 /* VillaOlimpica.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = VillaOlimpica.gpx; sourceTree = "<group>"; };
 		DE08786122115E7000385044 /* Unah Walk 1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Unah Walk 1.gpx"; sourceTree = "<group>"; };
+		DE2260DA2ACB8F4F0070665C /* Route_PaseoPorLaVilla.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = Route_PaseoPorLaVilla.gpx; path = ../../../../../Downloads/Route_PaseoPorLaVilla.gpx; sourceTree = "<group>"; };
 		DE3FB322299C9B5800E99346 /* DailyIncense.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = DailyIncense.gpx; sourceTree = "<group>"; };
 		DE81BA7129A9C5AD00B247AD /* Egg Hatch.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Egg Hatch.gpx"; sourceTree = "<group>"; };
 		DED899941D36E6AE00E67C2B /* PokemonHandler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PokemonHandler.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -118,13 +118,13 @@
 		DED899961D36E6AE00E67C2B /* PokemonHandler */ = {
 			isa = PBXGroup;
 			children = (
-				5D0CC25722E25CFC00730C9D /* Sdcc.gpx */,
 				DEF34DF422504E8300F0EFC8 /* VueltaEstadio.gpx */,
 				5DDF7F8A221627EB003C9305 /* UnahsUltimateTrack.gpx */,
 				DEF008BB1D55583C000BB3B6 /* pokemonLocation.gpx */,
 				DE087857220E0BC800385044 /* MiguelsFirstTrack.gpx */,
 				DE08785D2211065B00385044 /* VillaOlimpica.gpx */,
 				5DB977DB2310B9D400A34E30 /* San_Francisco_Pier_39_Pokego__GPX_Route.gpx */,
+				DE2260DA2ACB8F4F0070665C /* Route_PaseoPorLaVilla.gpx */,
 				DED8999A1D36E6AE00E67C2B /* AppDelegate.h */,
 				DED8999B1D36E6AE00E67C2B /* AppDelegate.m */,
 				DED8999D1D36E6AE00E67C2B /* ViewController.h */,
@@ -279,13 +279,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5D0CC25822E25CFC00730C9D /* Sdcc.gpx in Resources */,
 				DEF008BC1D55583C000BB3B6 /* pokemonLocation.gpx in Resources */,
 				DE087858220E0BC800385044 /* MiguelsFirstTrack.gpx in Resources */,
 				DEF34DF522504E8400F0EFC8 /* VueltaEstadio.gpx in Resources */,
 				5DDF7F8B221627EB003C9305 /* UnahsUltimateTrack.gpx in Resources */,
 				DED899A71D36E6AE00E67C2B /* LaunchScreen.storyboard in Resources */,
 				5DB977DC2310B9D400A34E30 /* San_Francisco_Pier_39_Pokego__GPX_Route.gpx in Resources */,
+				DE2260DB2ACB8F4F0070665C /* Route_PaseoPorLaVilla.gpx in Resources */,
 				DED899A41D36E6AE00E67C2B /* Assets.xcassets in Resources */,
 				DE08785E2211065B00385044 /* VillaOlimpica.gpx in Resources */,
 				DED899A21D36E6AE00E67C2B /* Main.storyboard in Resources */,
