@@ -1,4 +1,4 @@
-<gpx creator="Xcode" version="1.1"><wpt lat="14.094765" lon="-87.183412"> <name>PokemonLocation</name></wpt></gpx>
+<gpx creator="Xcode" version="1.1"><wpt lat="14.125270" lon="-87.186939"> <name>PokemonLocation</name></wpt></gpx>
 
 <!-- Utiles
  Lily Gym: 14.0571477, -87.1853271
@@ -6,17 +6,23 @@
  Bolivar Los Proceres (Diunsa): 14.102811, -87.185915
  Novacentro: 14.101193, -87.186425
  Mural Bac: 14.100275, -87.186347
-
+ 
 ******** PKMN Showcase: *******
 Rio Abajo(Mural Cultiva un Arbol): 14.169530,-87.205240
 Blvd Suyapa:
 Blvd Morazan (Banco Occidente): 14.100599, -87.178662
 Comayaguela (Placa Guardia de Honor): 14.091502, -87.208356
 Comayaguela (Cancha Deportiva Lempira): 14.091256, -87.213233
+
+ESTAS PASAN VACIAS:
+Mural Artistico (Castillo del Cielo): 14.044217, -87.221986
+Placa Los Niños (El Picacho): 14.120536, -87.196168
+Entrada Del Picacho: 14.125270, -87.186939
+
  
 
  PARA HACER RUTAS:
- https://www.gpsies.com/
+ https://www.gpsies.com/en le
  https://www.gpxgenerator.com/
  Link para info de como editar rutas:
  https://medium.com/@augusteo/how-to-simulate-gps-movement-in-ios-cca61907df2c
@@ -101,9 +107,11 @@ Comayaguela (Cancha Deportiva Lempira): 14.091256, -87.213233
  Pintura Cafe Del Mundo (Plaza): 14.077825, -87.185870
  Banco de Occidente: 14.079490, -87.185741
  Placa Pasaje Castillo: 14.066246, -87.17562
+ Mural Mujeres (Ciudad Mujer): 14.06577, -87.17617
  Busto Jose Trinidad Reyes (Kennedy): 14.064287, -87.180150
  Mural Infantil: 14.070005, -87.179288
  Estatua Redondel Kennedy: 14.068058, -87.184145
+ Mural 3: 14.064200, -87.183383
  Mural Artistico Los Niños: 14.0571477, -87.1853271
  Mural Bay Side: 14.053736, -87.180518
  
@@ -126,6 +134,7 @@ Comayaguela (Cancha Deportiva Lempira): 14.091256, -87.213233
  Fuente Tacontento: 14.089483, -87.191006
  Estatua del Angel: 14.088616, -87.190562
  Graffiti Zopilote ENEE: 14.089477, -87.194405
+ CEDAC (Diseño): 14.091947, -87.192158
  
  * VILLA OLIMPICA / UNAH *
  Placa Cancha Tennis: 14.089408, -87.16339
@@ -138,7 +147,7 @@ Comayaguela (Cancha Deportiva Lempira): 14.091256, -87.213233
  Fuente Villa O 6: 14.089184, -87.164057
  Edificio Ciencias de la Salud: 14.084403, -87.166789
  Dinosario 14.097799,-87.16345200000001
- Iglesia con alabanza Salmos 100 14.0941333, -87.1550743
+ Iglesia con alabanza Salmos  14.0941333, -87.1550743
  Iglesia Uncion Celestial 14.1001333, -87.1580743
  Torre de Agua: 14.094546,-87.171612
 
@@ -187,11 +196,21 @@ Comayaguela (Cancha Deportiva Lempira): 14.091256, -87.213233
  Iglesia Tabernaculo Evangelico: 14.091285, -87.210519
  Mural Gasolinera Uno: 14.088020, -87.200967
  Mural Asociacion Cristiana De Jovenes: 14.088466, -87.202443
+ Iglesia Cristiana Casa: 14.095965,-87.207679
+
+* EL SITIO *
+Tren APANJE: 14.044217,-87.221986
+Fuente LPM: 14.045322,-87.220451
+Placa Toncontin: 14.043379,-87.221831
  
 
  * RIO ABAJO *
  Mural Pajaro: 14.170830, 87.205240
  Mural de Cristo: 14.169530,-87.205240
+
+* SANTA LUCIA *
+Placa Conmemorativa: 14.118428, -87.112463
+Fuente Santa Lucia:
  
  
  Belem:
